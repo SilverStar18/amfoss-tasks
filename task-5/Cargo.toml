@@ -1,0 +1,14 @@
+[package]
+name = "hello-rust"
+version = "0.1.0"
+authors = ["Shaa <73302390+SilverStar18@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.10.9"
+scraper = "0.12.0"
+select = "0.6.0-alpha.1"
+error-chain = "0.12.4"
+tokio = "0.3.4"
