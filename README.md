@@ -22,7 +22,7 @@ Hi! I'm Pratyushaa Nayak pursuing BTECH in MEE at Amrita Vishwa Vidyapeetham at 
  # Currently Working On 
  | Task | Description | Status | 
  | --- | --- | --- |  
- | [Task 05](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-5) | Web scraping | in progress |
+ | [Task 05](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-5) | Getting error with the request | in progress |
  | [Task 07](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-7) | Created Flutter Onboarding | In Progress |
  | [Task 15]() | Project Euler #03, #04 and #05 | In Progress |
  
