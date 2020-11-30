@@ -1,6 +1,6 @@
 # **Amfoss-Tasks** 
 
-Hi! I'm Pratyushaa Nayak pursuing BTECH in MEE at Amrita Vishwa Vidyapeetham at Amritapuri campus, and this is my **amsoss-tasks** repository where you can find the tasks i have finished or am working on. It's been one of the most exciting 1 month I can remember where I got to learn so much new stuff. I am very grateful to *Amfoss* and my seniors for their constant support throught the process.
+Hi! I'm Pratyushaa Nayak pursuing BTECH in MEE at Amrita Vishwa Vidyapeetham at Amritapuri campus, and this is my **amfoss-tasks** repository where you can find the tasks I have finished or am working on. It's been one of the most exciting 1 month I can remember where I got to learn so much new stuff. I am very grateful to *Amfoss* and my seniors for their constant support throught the process.
 
 
 
