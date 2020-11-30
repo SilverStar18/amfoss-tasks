@@ -10,7 +10,7 @@ Hi! I'm Pratyushaa Nayak pursuing BTECH in MEE at Amrita Vishwa Vidyapeetham at 
  | [Task 00](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-0) | Install Ubuntu | Completed |
  | [Task 01](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-1) | Stared all repositories of amFOSS | Completed |
  | [Task 02](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-2) | Registered nickname *SilverStar18* | Completed | 
- | [Task 03](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-3) | Hackerrank Completed 7 | Completed | 
+ | [Task 03](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-3) | Hackerrank Username : 'SilverStar1802' | Completed | 
  | [Task 04](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-4) | Removed all errors | Completed |    
  | [Task 08](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-8) | fetched commits using perceval | Completed |
  | [Task 09](https://github.com/SilverStar18/amfoss-tasks/tree/main/task-9) | Spammed 666 'Hi' Messages | Completed |   
